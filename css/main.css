@@ -1,0 +1,60 @@
+*{
+	font-family: 'Raleway', sans-serif;
+}
+
+.fondo {
+	width: 500px;
+	height: 400px;
+	background-image: url(http://ncmedia.azureedge.net/ncmedia/2016/04/Copy-of-Students1.jpg);
+	background-size: cover;
+	position: relative;
+}
+
+.logo1{
+	position: absolute;
+    left: 200px;
+    width: 200px
+
+}
+
+.logo2{
+	position: absolute;
+	width: 15%;
+    right: -230px;
+    bottom: 0;
+}
+
+.fondo-negro {
+	position: absolute;
+    border-bottom: 400px solid #414141;
+    border-left: 230px solid transparent;
+
+    width: 240px;
+    left: 260px;
+}
+
+.nombre {
+	color: whitesmoke;
+	text-align: right;
+	position: absolute;
+	top: 70px;
+	left: 500px;
+}
+
+.cargo{
+	color: #ba8d17;
+	text-align: right;
+	position: absolute;
+	top: 140px;
+	left: 530px;
+	font-size: 1em;
+}
+
+.contacto{
+	position: absolute;
+    top: 200px;
+    right: 170px;
+    color: whitesmoke;
+
+}
+
